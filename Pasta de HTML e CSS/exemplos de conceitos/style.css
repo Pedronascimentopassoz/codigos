@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+:root
+    {--cor01:white;
+    --cor02:black;
+    --cor03:gray;}
+
+body
+    {background-color: var(--cor02);}
+
+h1
+    {color: var(--cor03);}
+
+p
+    {color: var(--cor01);}
