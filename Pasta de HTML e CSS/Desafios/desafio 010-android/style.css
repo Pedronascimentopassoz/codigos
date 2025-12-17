@@ -4,6 +4,8 @@
     {font-family:"android";
     src: url(pacote-projeto-d010/fontes/idroid.otf) format("opentype");}
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 p
     {text-align: justify; text-indent: 1.3em;}
     
